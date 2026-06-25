@@ -57,4 +57,4 @@ Welcome to the **T-shirt de luxe** project! This repository contains the structu
   <p>Made with ☕ and passion for fine apparel.</p>
 </div>
 
-<img src="["](https://pin.it/3zFrtRusG)" alt="T-de Luxe" width="300">
+  <h1>🦸 T-shirt de luxe</h1>
